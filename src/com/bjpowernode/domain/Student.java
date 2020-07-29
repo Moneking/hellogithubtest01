@@ -10,4 +10,5 @@ public class Student {
     private String email;
     private Integer age;
     private String address;
+    private String phone;
 }
